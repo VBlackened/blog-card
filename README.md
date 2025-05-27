@@ -15,4 +15,5 @@ This is a simple, responsive blog card component created as part of a GreatFront
 - Call-to-action link styled with hover and focus states
 - Semantic HTML for accessibility
 
-## 🔗 Live Demo (https://vblackened.github.io/blog-card/)
+## 🔗 Live Demo 
+https://vblackened.github.io/blog-card/
